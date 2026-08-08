@@ -31,4 +31,4 @@ Power Automate, Copilot Studio) · Office Scripts · ARGUS Enterprise · Power B
 
 📍 Los Angeles · [kyletran.dev](https://kyletran.dev) · [LinkedIn](https://www.linkedin.com/in/kylettran/) · kyletristentran@gmail.com
 
-Open to full-time CRE Portfolio Analyst roles (2026–2027 start) — portfolio analysis and reporting, plus the tooling that makes both faster.
+Open to full-time CRE Portfolio Analyst roles (2026–2027 start) — portfolio analysis and reporting, plus the tooling that makes both faster. Los Angeles · on-site or hybrid (hybrid preferred).
