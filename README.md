@@ -1,5 +1,7 @@
 ## Kyle Tran
 
+**CRE Portfolio Analyst · ARGUS, Python & Agentic AI**
+
 Real estate finance and the tooling around it. USC Real Estate Development,
 graduating August 2026. Currently building AI and automation systems for an
 industrial REIT.
@@ -27,4 +29,6 @@ failure state when the source cannot be read.
 Python · TypeScript · SQL · Next.js · Supabase · Power Platform (Power Apps,
 Power Automate, Copilot Studio) · Office Scripts · ARGUS Enterprise · Power BI
 
-📍 Los Angeles · kyletristentran@gmail.com
+📍 Los Angeles · [kyletran.dev](https://kyletran.dev) · [LinkedIn](https://www.linkedin.com/in/kylettran/) · kyletristentran@gmail.com
+
+Open to full-time CRE Portfolio Analyst roles (2026–2027 start) — portfolio analysis and reporting, plus the tooling that makes both faster.
