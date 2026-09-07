@@ -22,6 +22,7 @@ failure state when the source cannot be read.
 | **[kt-portfolio-dash](https://github.com/kyletristentran/kt-portfolio-dash)** | Real estate portfolio dashboard. Next.js and Supabase, with row-level security and a database-enforced public demo tenant. |
 | **[real-estate-tech](https://github.com/kyletristentran/real-estate-tech)** | Power Platform work — an Excel task-pane add-in, Office Scripts, a canonical pro-forma schema, and Power Automate flows for budget approval. |
 | **[kt-cre-design-system](https://github.com/kyletristentran/kt-cre-design-system)** | One visual standard across PDF, Word, Excel, PowerPoint, HTML and email, so a rent roll and a quarterly deck read as one firm's work. |
+| **[public-records-harvest](https://github.com/kyletristentran/public-records-harvest)** | One fetch path for every public-records scraper: on-disk cache, per-host rate limiting, retry, and provenance on every record. Small, tested, no framework. |
 | **[kt-claude-plugins](https://github.com/kyletristentran/kt-claude-plugins)** | Claude plugin marketplace — token-cost optimization and UI design intelligence. |
 
 ### Toolkit
@@ -31,4 +32,4 @@ Power Automate, Copilot Studio) · Office Scripts · ARGUS Enterprise · Power B
 
 📍 Los Angeles · [kyletran.dev](https://kyletran.dev) · [LinkedIn](https://www.linkedin.com/in/kylettran/) · kyletristentran@gmail.com
 
-Available now for full-time CRE analyst roles — portfolio analysis and reporting, plus the tooling that makes both faster. Also applying to 2027 analyst programs. Los Angeles · on-site or hybrid (hybrid preferred).
+Available now for full-time CRE analyst roles — portfolio analysis and reporting, plus the tooling that makes both faster. Los Angeles · on-site or hybrid (hybrid preferred).
